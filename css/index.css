@@ -82,13 +82,24 @@ body {
   background-color: rgb(3, 39, 123);
 }
 
+.element-13 {
+  position: relative;
+  float: left;
+  z-index: 40;
+  width: 21.0833333333%;
+  height: 251px;
+  margin: 203px 0 0 65.41667%;
+  background-color: rgba(222, 222, 222, 0);
+  opacity: 0.01;
+}
+
 .element-2 {
   position: relative;
   float: left;
   z-index: 35;
   width: 42.2394783266%;
   height: 90px;
-  margin: 655px 0 0 6.45004%;
+  margin: 655px 0 0 7.4077%;
   background-color: rgba(222, 222, 222, 0);
 }
 
@@ -98,7 +109,7 @@ body {
   z-index: 36;
   width: 39.9067540322%;
   height: 98px;
-  margin: 655px 0 0 5.6561899999%;
+  margin: 655px 0 0 4.7001%;
   background-color: rgba(222, 222, 222, 0);
 }
 
@@ -226,7 +237,7 @@ body {
 
 .text-12 {
   top: 1182px;
-  left: 31.5492691532%;
+  left: 31.5524193548%;
   z-index: 16;
   width: 62.7016129032%;
   min-height: 109px;
