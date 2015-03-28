@@ -109,13 +109,13 @@ body {
   z-index: 36;
   width: 39.9067540322%;
   height: 98px;
-  margin: 655px 0 0 4.7001%;
+  margin: 655px 0 0 4.69853%;
   background-color: rgba(222, 222, 222, 0);
 }
 
 .element-4 {
   position: absolute;
-  top: 1171px;
+  top: 1182px;
   left: 57px;
   z-index: 34;
   width: 88.5080645161%;
@@ -125,7 +125,7 @@ body {
 
 .element-5 {
   position: absolute;
-  top: 1587px;
+  top: 1619px;
   left: 57px;
   z-index: 29;
   width: 88.5080645161%;
@@ -135,7 +135,7 @@ body {
 
 .element-6 {
   position: absolute;
-  top: 1437px;
+  top: 1469px;
   left: 57px;
   z-index: 25;
   width: 88.5080645161%;
@@ -145,7 +145,7 @@ body {
 
 .element-7 {
   position: absolute;
-  top: 1061px;
+  top: 1072px;
   left: 57px;
   z-index: 19;
   width: 88.5080645161%;
@@ -155,7 +155,7 @@ body {
 
 .element-8 {
   position: absolute;
-  top: 1305px;
+  top: 1326px;
   left: 57px;
   z-index: 11;
   width: 88.5080645161%;
@@ -203,7 +203,7 @@ body {
 }
 
 .text-1 {
-  top: 1611px;
+  top: 1643px;
   left: 18.0947580645%;
   z-index: 38;
   width: 63.8104838709%;
@@ -225,7 +225,7 @@ body {
 }
 
 .text-11 {
-  top: 1316px;
+  top: 1337px;
   left: 5.7459677419%;
   z-index: 18;
   width: 62.7016129032%;
@@ -236,7 +236,7 @@ body {
 }
 
 .text-12 {
-  top: 1182px;
+  top: 1193px;
   left: 31.5524193548%;
   z-index: 16;
   width: 62.7016129032%;
@@ -247,7 +247,7 @@ body {
 }
 
 .text-13 {
-  top: 1182px;
+  top: 1193px;
   left: 7.4076990927%;
   z-index: 15;
   width: 21.875%;
@@ -315,7 +315,7 @@ body {
 }
 
 .text-2 {
-  top: 1663px;
+  top: 1695px;
   left: 21.8245967741%;
   z-index: 37;
   width: 56.3508064516%;
@@ -327,7 +327,7 @@ body {
 }
 
 .text-3 {
-  top: 1073px;
+  top: 1084px;
   left: 5.7459677419%;
   z-index: 33;
   width: 62.7016129032%;
@@ -338,7 +338,7 @@ body {
 }
 
 .text-4 {
-  top: 1068px;
+  top: 1079px;
   left: 71.2607106854%;
   z-index: 31;
   width: 21.875%;
@@ -359,7 +359,7 @@ body {
 }
 
 .text-6 {
-  top: 1460px;
+  top: 1492px;
   left: 7.4076990927%;
   z-index: 27;
   width: 21.875%;
@@ -370,7 +370,7 @@ body {
 }
 
 .text-7 {
-  top: 1446px;
+  top: 1478px;
   left: 31.5492691532%;
   z-index: 26;
   width: 62.7016129032%;
@@ -381,7 +381,7 @@ body {
 }
 
 .text-8 {
-  top: 1316px;
+  top: 1337px;
   left: 71.2607106854%;
   z-index: 23;
   width: 21.875%;
@@ -403,21 +403,21 @@ body {
 }
 
 .element ._button-1 {
-  top: 1115px;
+  top: 1126px;
   left: 71.2607106854%;
   z-index: 32;
   background-color: rgb(252, 251, 147);
 }
 
 .element ._button-2 {
-  top: 1516px;
+  top: 1548px;
   left: 7.4108492943%;
   z-index: 28;
   background-color: rgb(252, 180, 226);
 }
 
 .element ._button-3 {
-  top: 1373px;
+  top: 1394px;
   left: 71.2607106854%;
   z-index: 24;
   background-color: rgb(252, 180, 180);
@@ -431,7 +431,7 @@ body {
 }
 
 .element ._button-5 {
-  top: 1239px;
+  top: 1250px;
   left: 7.4076990927%;
   z-index: 17;
   background-color: rgb(171, 245, 255);
