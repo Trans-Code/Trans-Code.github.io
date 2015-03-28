@@ -1,0 +1,91 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.375em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 73.1666666666%;
+  height: 2px;
+  margin: 0 auto;
+  background-color: rgb(3, 39, 123);
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.element-1 {
+  top: 156px;
+  z-index: 2;
+}
+
+.element-2 {
+  top: 469px;
+  z-index: 6;
+}
+
+.image-1 {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  right: 0;
+  width: 740px;
+  margin: 0 auto;
+}
+
+.image-2 {
+  position: relative;
+  float: left;
+  z-index: 4;
+  width: 250px;
+  margin: 208px 0 0 65.5078125%;
+}
+
+.text-1 {
+  position: absolute;
+  top: 168px;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  width: 63.7499999999%;
+  min-height: 50px;
+  margin: 0 auto;
+  font-style: italic;
+  font-size: 0.773em;
+  text-align: center;
+}
+
+.text-2 {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 23.4166666666%;
+  min-height: 36px;
+  margin: 0 auto;
+  font-size: 1.455em;
+}
+
+.text-3 {
+  position: fixed;
+  top: 224px;
+  left: 18.7486979166%;
+  z-index: 5;
+  width: 44.6666666666%;
+  min-height: 75px;
+  font-size: 1em;
+  text-align: justify;
+}
