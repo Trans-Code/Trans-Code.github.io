@@ -9,35 +9,12 @@ title: Hackday Projects
 
 <hr>
 
+{% for project in site.data.projects %}
 <div>
-  <a href="https://github.com/malht/bechill"><h3>Be Chill</h3></a>
-  <p>A web app for synchronised music playing between a group of friends in different places.</p>
+  <a href="{{ project.url }}"><h3>{{ project.name }}</h3></a>
+  <p>{{ project.info }}</p>
 </div>
-
-<div>
-  <a href="https://github.com/tobereal/tobereal.tech"><h3>To Be Real</h3></a>
-  <p>A charity website to help people transition, and give supporters cool stuff.</p>
-</div>
-
-<div>
-  <a href="http://www.twilightpeople.com"><h3>Twilight People</h3></a>
-  <p>Stories of faith and gender beyond the binary, with an app (coming soon!) to display the stories on mobile devices.</p>
-</div>
-
-<div>
-  <a href="https://github.com/TranscodeVoiceTraining/VoxMod"><h3>VoxMod</h3></a>
-  <p>Transgender voice training web app.</p>
-</div>
-
-<div>
-  <a href="https://krisajenkins.github.io/transcodegame/"><h3>Madministration</h3></a>
-  <p>A point and click adventure where you try to make the government accept your change of gender.</p>
-</div>
-
-<div>
-  <a href="https://github.com/penman/clothing_exchance"><h3>Trans Clothing Exchange</h3></a>
-  <p>An online clothing exchange platform for trans people.</p>
-</div>
+{% endfor %}
 
 <hr>
 
