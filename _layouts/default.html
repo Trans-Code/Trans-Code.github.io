@@ -9,7 +9,8 @@
   <script src="bootstrap-3.2.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+  <code>
+  </code>
   <div class="navbar">
     <div class="container-fluid">
       <div class="navbar-header">
@@ -17,8 +18,12 @@
           <img height="40" width="100" alt="Trans-code" src="images/cropped-cropped-TransCode_transparent2.jpg" />
         </a>
         <ul class="nav navbar-nav nav-pills pull-left">
-          <li class="active"><a href="/">Hackday projects</a></li>
-          <li><a href="/resources">Hackday Resources</a></li>
+          <li {% if page.url == "/" %}class="active"{% endif %}>
+            <a href="/">Hackday projects</a>
+          </li>
+          <li {% if page.url == "/resources.html" %}class="active"{% endif %}>
+            <a href="/resources">Hackday Resources</a>
+          </li>
         </ul>
       </div>
     </div>
