@@ -3,13 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hackday Projects List</title>
+  <title>Trans*Code{% if page.title %} - {{ page.title }} {% endif %}</title>
+  <link rel="stylesheet" href="/css/main.css" type="text/css" charset="utf-8">
   <link href="bootstrap-3.2.0/css/bootstrap.css" rel="stylesheet">
-  <style>.content {padding-top: 80px;}</style>
-  <script src="bootstrap-3.2.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-
   <div class="navbar">
     <div class="container-fluid">
       <div class="navbar-header">
@@ -17,14 +15,18 @@
           <img height="40" width="240" alt="Trans-code" src="images/cropped-cropped-TransCode_transparent2.jpg" />
         </a>
         <ul class="nav navbar-nav nav-pills pull-left">
-          <li class="active"><a href="index.html">Hackday projects</a></li>
-          <li><a href="resources.html">Hackday Resources</a></li>
+          <li {% if page.url == "/" %}class="active"{% endif %}>
+            <a href="/">Hackday projects</a>
+          </li>
+          <li {% if page.url == "/resources.html" %}class="active"{% endif %}>
+            <a href="/resources">Hackday Resources</a>
+          </li>
         </ul>
       </div>
     </div>
   </div>
 
-  <div class="content" style="margin: 0px 5px 0px 5px">
+  <div class="content">
     {{ content }}
   </div>
 
