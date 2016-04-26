@@ -1,0 +1,4 @@
+- name: Music Trigger Database
+  info: A database on songs, containing information on their lyrical content, such as trigger warnings and whether they contain explicit lyrics. The main interface would just be a database browser, but a possible extension is as a music player and organiser where you can filter on certain warning tags, for example.
+  links:
+    - https://twitter.com/IridianSkies/status/723804461664243712

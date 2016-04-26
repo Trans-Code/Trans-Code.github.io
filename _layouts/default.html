@@ -15,11 +15,14 @@
           <img height="40" width="240" alt="Trans-code" src="images/cropped-cropped-TransCode_transparent2.jpg" />
         </a>
         <ul class="nav navbar-nav nav-pills pull-left">
-          <li {% if page.url == "/" %}class="active"{% endif %}>
-            <a href="/">Hackday projects</a>
+          <li{% if page.url == "/" %} class="active"{% endif %}>
+            <a href="/">Hackday Projects</a>
           </li>
-          <li {% if page.url == "/resources.html" %}class="active"{% endif %}>
+          <li{% if page.url == "/resources.html" %} class="active"{% endif %}>
             <a href="/resources">Hackday Resources</a>
+          </li>
+          <li{% if page.url == "/ideas.html" %} class="active"{% endif %}>
+            <a href="/ideas">Hackday Ideas</a>
           </li>
         </ul>
       </div>
