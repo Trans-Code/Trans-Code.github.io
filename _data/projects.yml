@@ -2,53 +2,75 @@
   url: https://github.com/alison985/school-board-agenda-alerts
   info: An app to scrape school board agendas to alert the community of trans related (i.e. trans hostile) items on school board agendas.
   date: 12-10-2016
+  location: Chicago, IL USA
 
 - name: Un-deadnamer
   url: https://
   info: Helps generate a list of accounts where names need to fixed after a name change.
   date: 12-10-2016
+  location: Chicago, IL USA
 
 - name: Non-binary name generator
-  url: https://github.com/estherbrunner/non-binary-name
-  info: Generates non-binary names in the browser.
+  url: https://github.com/jeff-fichtner/baby-names-1000
+  info: Generates non-binary names - inspired by the Trnas*Code Zürich project.
   date: 12-10-2016
+  location: Chicago, IL USA
 
 - name: AllyBot
   url:
   info: A slack bot which can give trans-related support and advice
   date: 12-10-2016
+  location: Chicago, IL USA
 
 - name: Trans-code Game
   url: https://github.com/Velfi/trans-code-game
   info: A browser-based game that illustrates character creation without binary gendered assumptiosn
   date: 12-10-2016
+  location: Chicago, IL USA
 
+- name: Trans Friendly Restrooms and Accomodations, etc.
+  url:
+  info:
+  date: 12-10-2016
+  location: Zürich, Switzerland
+
+- name: Non-binary Name Generator
+  url: https://github.com/estherbrunner/non-binary-name
+  info: Generates non-binary names
+  date: 12-10-2016
+v
 - name: Be Chill
   url: https://github.com/malht/bechill
   info: A web app for synchronised music playing between a group of friends in different places.
   date: 04-23-2016
+  location: London, UK
 
 - name: To Be Real
   url: https://github.com/tobereal/tobereal.tech
   info: A charity website to help people transition, and give supporters cool stuff.
   date: 04-23-2016
+  location: London, UK
 
 - name: Twilight People
   url: http://www.twilightpeople.com
   info: Stories of faith and gender beyond the binary, with an app (coming soon!) to display the stories on mobile devices.
   date: 04-23-2016
+  location: London, UK
 
 - name: VoxMod
   url: https://github.com/TranscodeVoiceTraining/VoxMod
   info: Transgender voice training web app.
   date: 04-23-2016
+  location: London, UK
 
 - name: Madministration
   url: https://krisajenkins.github.io/transcodegame/
   info: A point and click adventure where you try to make the government accept your change of gender.
   date: 04-23-2016
+  location: London, UK
 
 - name: Trans Clothing Exchange
   url: https://github.com/penman/clothing_exchange
   info: An online clothing exchange platform for trans people.
   date: 04-23-2016
+  location: London, UK

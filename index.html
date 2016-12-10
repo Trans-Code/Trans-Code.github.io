@@ -12,7 +12,8 @@ title: Hackday Projects
 {% for project in site.data.projects %}
 <div>
   <a href="{{ project.url }}"><h3>{{ project.name }}</h3></a>
-  <p>Date: {{project.date}}</p>
+  <p>Date: {{project.date}}<br>
+    Location: {{project.location}}</p>
   <p>{{ project.info }}</p>
 </div>
 {% endfor %}
