@@ -1,3 +1,23 @@
+- name: School Board Alerts
+  url: https://github.com/alison985/school-board-agenda-alerts
+  info: An app to scrape school board agendas to alert the community of trans related (i.e. trans hostile) items on school board agendas.
+
+- name: Un-deadnamer
+  url: https://
+  info: Helps generate a list of accounts where names need to fixed after a name change.
+
+- name: Non-binary name generator
+  url: https://github.com/estherbrunner/non-binary-name
+  info: Generates non-binary names in the browser.
+
+- name: AllyBot
+  url:
+  info: A slack bot which can give trans-related support and advice
+
+- name: Trans-code Game
+  url: https://github.com/Velfi/trans-code-game
+  info: A browser-based game that illustrates character creation without binary gendered assumptiosn
+
 - name: Be Chill
   url: https://github.com/malht/bechill
   info: A web app for synchronised music playing between a group of friends in different places.
