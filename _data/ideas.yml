@@ -2,10 +2,6 @@
   info: A database on songs, containing information on their lyrical content, such as trigger warnings and whether they contain explicit lyrics. The main interface would just be a database browser, but a possible extension is as a music player and organiser where you can filter on certain warning tags, for example.
   links:
     - https://twitter.com/IridianSkies/status/723804461664243712
-- name: School Board Alerts
-  info: An app to scrape school board agendas to alert the community of trans related (i.e. trans hostile) items on school board agendas.
-  links:
-    -
 - name: YFLS (You Feel Like Sh*t)
   info: Adding gender dysphoric situations and responses to the YFLS site
   links:
