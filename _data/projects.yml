@@ -5,7 +5,7 @@
   location: Chicago, IL USA
 
 - name: Un-deadnamer
-  url: https://
+  url: https://github.com/sixtimes/undeadnamer
   info: Helps generate a list of accounts where names need to fixed after a name change.
   date: 12-10-2016
   location: Chicago, IL USA
@@ -17,7 +17,7 @@
   location: Chicago, IL USA
 
 - name: AllyBot
-  url:
+  url: https://github.com/dgales4130/allybot
   info: A slack bot which can give trans-related support and advice
   date: 12-10-2016
   location: Chicago, IL USA
