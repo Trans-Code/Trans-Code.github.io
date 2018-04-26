@@ -1,0 +1,35 @@
+---
+layout: default
+title: Hackday Projects
+---
+<p>
+  Please note that we have no control over content hosted on linked sites, but
+  if you do spot anything incorrect or otherwise irksome, please let us know!
+</p>
+
+<hr>
+
+{% for project in site.data.projects %}
+<div>
+  <a href="{{ project.url }}"><h3>{{ project.name }}</h3></a>
+  <p>Date: {{project.date}}<br>
+    Location: {{project.location}}</p>
+  <p>{{ project.info }}</p>
+</div>
+{% endfor %}
+
+<hr>
+
+<p>
+  If you have any suggestions or have found the tutorials above useful it would
+  be fantastic to get your feedback. We want to keep this page as a living
+  document.
+</p>
+<p>
+  It's not just programmers that are needed: Creative ideas? Design flair?
+</p>
+<p>
+  <strong>
+    Most importantly, Its about having fun and being part of something great.
+  </strong>
+</p>
