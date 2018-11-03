@@ -20,5 +20,7 @@ navigation:
   url: /projects/
 - text: Resources
   url: /resources/
+- text: Ideas
+  url: /ideas/
 - text: Code of Conduct
-  url: /tags/code_of_conduct.html
+  url: /tags/code_of_conduct/
