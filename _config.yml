@@ -4,7 +4,7 @@ permalinks: pretty
 title: Trans*Code
 description: Trans*Code Home
 baseurl: ""
-url: "https://www.trans.tech/"
+url: "https://www.trans.tech"
 github: http://github.com/Trans-Code/Trans-Code.github.io
 highlighter: rouge
 markdown: kramdown
