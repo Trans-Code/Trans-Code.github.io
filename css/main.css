@@ -46,6 +46,9 @@ header h1 a {
     color: #ffffff;
     font-size: 32px;
     background-image:  url("/images/TransCode_Large_Eps-1.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
     background-color: #0f2e57;
     padding: 10px 13px;
 }
