@@ -39,13 +39,13 @@ header h1 {
     font-weight: bold;
     font: 1em -apple-system-headline, "Droid Sans Mono", Courier, mono;
     text-transform: lowercase;
-    background-image:  url("/images/TransCode_Large_Eps-1.png");
     margin-left: 25px;
     padding-bottom: 2.1em;
 }
 header h1 a {
     color: #ffffff;
     font-size: 32px;
+    background-image:  url("/images/TransCode_Large_Eps-1.png");
     background-color: #0f2e57;
     padding: 10px 13px;
 }
