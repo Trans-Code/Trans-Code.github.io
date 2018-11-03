@@ -1,50 +1,8 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Trans*Code{% if page.title %} - {{ page.title }} {% endif %}</title>
-  <link rel="stylesheet" href="{{ site.url }}/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.url }}/css/main.css">  
-  <!--
-  <link rel="stylesheet" href="/css/main.css" type="text/css" charset="utf-8">
-  -->
-  <link href="bootstrap-3.2.0/css/bootstrap.css" rel="stylesheet">
-</head>
-<body>
-  {% include navigation.html %}
-
-  <div class="navbar">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <a id="trans-code-link" href="/" class="navbar-brand">
-          <img height="40" width="240" alt="Trans-code" src="images/cropped-cropped-TransCode_transparent2.jpg" />
-        </a>
-        <ul class="nav navbar-nav nav-pills pull-left">
-          <li{% if page.url == "/" %} class="active"{% endif %}>
-            <a href="/">Trans*Code Home</a>
-          </li>
-          <li{% if page.url == "/projects.html" %} class="active"{% endif %}>
-            <a href="/projects">Hackday Projects</a>
-          </li>
-          <li{% if page.url == "/resources.html" %} class="active"{% endif %}>
-            <a href="/resources">Hackday Resources</a>
-          </li>
-          <li{% if page.url == "/ideas.html" %} class="active"{% endif %}>
-            <a href="/ideas">Hackday Ideas</a>
-          </li>
-          <li{% if page.url == "/code_of_conduct.html" %} class="active"{% endif %}>
-            <a href="/code_of_conduct">Code of Conduct</a>
-          </li>
-          
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="content">
-    {{ content }}
-  </div>
-
+{% include head.html %}
+{% include navigation.html %}
+<section id="main">
+	{{ content }}
+</section>
+{% include footer.html %}
 </body>
 </html>
