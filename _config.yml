@@ -1,4 +1,24 @@
-baseurl: ""
-url: "https://www.trans.tech/"
 markdown: kramdown
 permalinks: pretty
+# Jekyll Defaults
+title: Trans*Code
+description: Trans*Code Home
+baseurl: ""
+url: "https://www.trans.tech/"
+github: http://github.com/Trans-Code/Trans-Code.github.io
+highlighter: rouge
+markdown: kramdown
+permalink: /post/:title/
+paginate: 4
+gems: [jekyll-paginate]
+paginate_path: "/page:num"
+rss_path: /feed.xml
+navigation:
+- text: About
+  url: /about/
+- text: Projects
+  url: /projects/
+- text: Resources
+  url: /resources/
+- text: Code of Conduct
+  url: /tags/code_of_conduct.html
