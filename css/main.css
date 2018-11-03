@@ -44,14 +44,14 @@ header h1 {
 }
 header h1 a {
     color: #ffffff;
-    font-size: 32px;
+    font-size: 64px;
     /*background-image:  url("/images/TransCode_Large_Eps-1.png");
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover; 
     */
-    background-color: #0f2e57;
-    padding: 10px 13px;
+    background-color: #07346f;
+    padding: 10px 11px;
 }
 header h1 a:hover {
     color: #76a0dd;
