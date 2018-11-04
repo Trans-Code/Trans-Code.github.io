@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Trans*Code London
+date: 2016-01-30 17:40:41
+tags: [London, events]
+
 ---
 
 ## Trans*Code (London) Official Press Release

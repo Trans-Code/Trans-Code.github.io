@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: posts
 title: Trans*Code Chicago
+date: 2016-11-27 17:40:41
+tags: [sponsors]
+
 ---
 
 ## Announcing Trans*Code Chicago – December 10, 2016

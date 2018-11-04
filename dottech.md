@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: posts
 title: Domain Sponsor - .tech
+date: 2016-01-20 17:40:41
+tags: [sponsors]
+
 ---
 
 ## Announcing our domain sponsor – .tech
@@ -11,6 +14,6 @@ Thank you so much for your support!
 
 **Domain&nbsp;Sponsor:**
 
-[![dottech](/image/dottech-300x110.png)](http://get.tech/)
+[![dottech](/images/dottech-300x110.png)](http://get.tech/)
 
 [**.tech domains is a Top Level Domain extension owned by Radix Registry**](http://get.tech/)
