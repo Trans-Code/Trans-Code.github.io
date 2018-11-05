@@ -28,7 +28,7 @@ title: Hackday Resources
 
 <h3>Python</h3>
 <p>Python is a powerful language used to build sites like Dropbox and YouTube. There are endless (not literally, but lots) of applications. In order to really get your head around Python, it’s worth investing time to learning it step-by-step. Here, again, there are many ways to go, both with online courses (there are good ones from Codeacademy and Treehouse) and with books. If you are are just starting to code, you can start with the Python Software foundation's listing of material for non-programmers, and if you're already able to code in some other language you'll want to look at the page for programmers. </p>
-<a href="https://wiki.python.org/moin/BeginnersGuide/NonProgrammers"><button class="btn btn-success">Beginners Guide for Non-programmers</button></a>
+<a href="https://wiki.python.org/moin/BeginnersGuide/NonProgrammers"><button class="btn btn-success">Beginners Guide for Non-programmers</button></a></br>
 <a href="https://wiki.python.org/moin/BeginnersGuide/Programmers"><button class="btn btn-success">Guide for Programmers</button></a>
 <hr />
 
