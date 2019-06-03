@@ -14,8 +14,6 @@ gems: [jekyll-paginate]
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
-- text: About
-  url: /about/
 - text: Projects
   url: /projects/
 - text: Resources
