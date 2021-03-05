@@ -1,0 +1,8 @@
+- name: London
+  page: /transcode-london.md
+  date: 04-23-2016
+
+- name: Chicago
+  url: chicago
+  date: 12-10-2016
+  location: Chicago, IL USA

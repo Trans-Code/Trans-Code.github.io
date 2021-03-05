@@ -14,6 +14,8 @@ gems: [jekyll-paginate]
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
+- text: Past Events
+  url: /past_events/
 - text: Projects
   url: /projects/
 - text: Resources
