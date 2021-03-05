@@ -1,9 +1,59 @@
 - name: London
+  page: 
+  date: 04-28-2015
+  location: London, UK
+
+- name: PyCon UK
+  page: 
+  date: Sept 2015
+  location: Coventry, UK
+
+- name: London
   page: /transcode-london/
   date: 04-23-2016
   location: London, UK
+
+- name: PyCon UK
+  page: 
+  date: Sept 2016
+  location: Coventry, UK
+
+- name: Zurich
+  page: 
+  date: 12-10-2016
+  location: Zurich, Switzerland
 
 - name: Chicago
   page: /chicago/
   date: 12-10-2016
   location: Chicago, IL USA
+
+- name: London
+  page: /transcode-london/
+  date: 04-23-2016
+  location: London, UK
+
+- name: PyCon UK
+  page: 
+  date: Sept 2017
+  location: Cardiff, UK
+
+- name: PyLondinium 2018
+  page: 
+  date: June 2018
+  location: London, UK
+
+- name: PyCon UK
+  page: 
+  date: Sept 2018
+  location: Cardiff, UK
+
+- name: PyLondinium 2019
+  page: 
+  date: June 2019
+  location: London, UK
+
+- name: PyCon UK
+  page: 
+  date: Sept 2019
+  location: Cardiff, UK
