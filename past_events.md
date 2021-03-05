@@ -12,11 +12,12 @@ Here are the event pages for a few of our past events...
   <ul>
   <li>
   <h3>{{ event.name }}</h3>
-    <a href="{{event.page}}">{{event.location}}</a></b>
+    <a href="{{event.page}}">{{event.location}}</a>
 <br/>
     {{event.date}}
     </li> 
   </ul>
+
 
 
 {% endfor %}
