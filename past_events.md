@@ -2,7 +2,7 @@
 layout: default
 title: Past Events
 ---
-Here are the event pages for a few of our past events...
+Here are a few of our past events...
 
 
 <hr>
