@@ -36,9 +36,9 @@ Co-founder Naomi Ceder explains: “As technology offers growing opportunities, 
 
 “If you have an idea, can code, can design, want to learn, or want to improve the situation of the trans and non-binary communities through technology, please join us.”
 
-**Registration: via<span>&nbsp;</span>**[Eventbrite](https://web.archive.org/web/20170517070248/https://www.eventbrite.com/edit?eid=28100861433)  ****
+**Registration: via<span>&nbsp;</span>**[Eventbrite](https://web.archive.org/web/20170517070248/https://www.eventbrite.com/edit?eid=28100861433) 
 
-**Website:<span>&nbsp;</span>**[http://trans.tech/chicago](https://web.archive.org/web/20170517070248/http://trans.tech/chicago)
+**Website: **[http://trans.tech/chicago](https://web.archive.org/web/20170517070248/http://trans.tech/chicago)
 
 **Sponsors:**
 
