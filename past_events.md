@@ -9,7 +9,7 @@ Here are the event pages for a few of our past events...
 
 {% for event in site.data.events %}
 <div>
-  <h3>{{ event.name }}</h3></a>
+  <h3>{{ event.name }}</h3>
   <p><a href="{{event.page}}">{{event.date}}</a>
  </p>
 </div>

@@ -1,9 +1,9 @@
 - name: London
-  page: /transcode-london.md
+  page: /transcode-london/
   date: 04-23-2016
   location: London, UK
 
 - name: Chicago
-  url: chicago
+  page: /chicago/
   date: 12-10-2016
   location: Chicago, IL USA
