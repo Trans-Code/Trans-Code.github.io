@@ -9,8 +9,9 @@ title: Trans*Code Home
 
 Trans*Code is an international  hack event series focused solely on drawing attention to transgender issues and opportunities.
 
-Open to trans and non-binary folk, allies, coders, designers and visionaries of all sorts, Trans*Code was inspired by the groundbreaking 
-[Trans`*`H4CK](http://www.transhack.org/)  events created by Dr. Kortney Ziegler. The event that aims to help draw attention to transgender issues through a topic-focused hackday. Supported by introductory programming workshops, community members not currently working in technology are also encouraged to participate.
+Open to trans and non-binary folk, allies, coders, designers and visionaries of all sorts, Trans*Code was inspired by the groundbreaking [Trans`*`H4CK](http://www.transhack.org/)  events created by Dr. Kortney Ziegler. 
+
+Trans*Code events aim to help draw attention to transgender issues through informal, topic-focused hackdays. Coders, designers, activitists, and community members not currently working in technology are also encouraged to participate
 
 ## Why Trans*Code
 Co-organiser Naomi Ceder explains: “As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important.
