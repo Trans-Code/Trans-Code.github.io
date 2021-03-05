@@ -20,10 +20,9 @@ Co-organiser Naomi Ceder explains: “As technology offers growing opportunities
 
 “If you have an idea, can code, can design, want to learn, or want to improve the situation of the trans and non-binary communities through technology, please join us.”
 
-
 <p><b>Contact:</b></p>
 <p>Naomi Ceder &#8211; info@trans-code.org</p>
 <p><b>Social:</b></p>
   <p>Twitter: <a href="https://twitter.com/trans_code">@trans_code</a>, #trans_code<br /></p>
- <h4>Trans*Code events are <a href="code_of_conduct.html">governed by the Tran*Code Code of Conduct</a></h4>
+ <h4>Trans*Code events are <a href="code_of_conduct/">governed by the Tran*Code Code of Conduct</a></h4>
 
