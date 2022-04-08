@@ -3,13 +3,13 @@ layout: default
 title: Trans*Code Home
 ---
 
-# Trans*Code at Europython!
+# Trans*Code at EuroPython!
 
 ## Trans*Code returns
 
-After nearly 3 years of virus hiatus, Trans\*Code will be returning! We are delighted that [Europython](https://ep2022.europython.eu/) will be hosting a Trans\*Code event in Dublin in July! (note snazzy logo at top of page ;-) )
+After nearly 3 years of virus hiatus, Trans\*Code will be returning! We are delighted that [EuroPython](https://ep2022.europython.eu/) will be hosting a Trans\*Code event in Dublin in July! (note snazzy logo at top of page ;-) )
 
-We would love to have more help in planning and running this event as well as people to attend. Europython has financial aid available, so this is a great chance to take part in a Trans\*Code event, attend Europython, **and** visit Dublin in July! If you're interested in taking part please feel free to get in touch at trans_code@europython.eu or you can ping Naomi with any questions at info@trans.tech.
+We would love to have more help in planning and running this event as well as people to attend. EuroPython has financial aid available, so this is a great chance to take part in a Trans\*Code event, attend Europython, **and** visit Dublin in July! If you're interested in taking part please feel free to get in touch at trans_code@europython.eu or you can ping Naomi with any questions at info@trans.tech.
 
 And please spread the word throughout your trans/NB communities far and wide!
 
