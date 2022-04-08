@@ -49,8 +49,8 @@ header h1 a {
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover; 
-    */
     background-color: #07346f;
+    */
     padding: 10px 11px;
 }
 header h1 a:hover {
