@@ -32,7 +32,7 @@ Co-organiser Naomi Ceder explains: “As technology offers growing opportunities
 
 <p><b>Contact:</b></p>
 <p>Naomi Ceder &#8211; info@trans.tech</p>
-<p><b>Social:<
+<p><b>Social:
   <p>Mastodon:<a href="https://tech.lgbt/@trans_code">Mastodon</a>>@trans_code@tech.lgbt</a>, #trans_code<br /></p>
   <p>Twitter (deprecated): <a href="https://twitter.com/trans_code">@trans_code</a>, #trans_code<br /></p>
  <h4>Trans*Code events are <a href="code_of_conduct/">governed by the Tran*Code Code of Conduct</a></h4>
