@@ -18,16 +18,16 @@ Trans*Code is where you can connect and share ideas with trans and non-binary fo
 
 Trans\*Code events are similar to hackathons, but with some key differences:
 * Events are only one day long. If you can’t get free for an entire weekend, 
-* Events are not competitive. At Trans*Code events, we’re all pulling for each other. While we do have final presentations, they are made in the spirit of sharing, not in the spirit of competition.
-* Events encourage following your interests. Want to work on that project? Fine, do it. Want to spend the morning with this one, and the afternoon with that one? The choice is yours. Trans*Code subscribes to the Un-Conference philosophy - whatever happens is exactly what should happen.
+* Events are not competitive. At Trans\*Code events, we’re all pulling for each other. While we do have final presentations, they are made in the spirit of sharing, not in the spirit of competition.
+* Events encourage following your interests. Want to work on that project? Fine, do it. Want to spend the morning with this one, and the afternoon with that one? The choice is yours. Trans\*Code subscribes to the Un-Conference philosophy - whatever happens is exactly what should happen.
 
-Trans*Code is an international hack event series focused solely on building connections and community while exploring the tech side of transgender issues and opportunities. Trans*Code events are informal hackdays where participants can explore their ideas in collaboration with likeminded people. Coders, designers, activists, visionaries of all sorts, and community members not currently working in technology are all welcome and encouraged to participate.
+Trans\*Code is an international hack event series focused solely on building connections and community while exploring the tech side of transgender issues and opportunities. Trans\*Code events are informal hackdays where participants can explore their ideas in collaboration with likeminded people. Coders, designers, activists, visionaries of all sorts, and community members not currently working in technology are all welcome and encouraged to participate.
 
 ### What happens at Trans\*Code?
 The day kicks off with the people who have projects briefly describing their ideas of what they want to work on. Everyone then has the chance to join the project that they find interesting, and the day’s brainstorming/planning/coding/etc begins. This continues into the afternoon with breaks for lunch and snacks, until at the end of the afternoon, someone from each project gives an update to the group as a whole. Once the day is done, it’s common for people to go off to find dinner and to continue the conversation. 
 
 
-## Why Trans*Code
+## Why Trans\*Code
 Co-organiser Naomi Ceder explains: “As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important.
 
 “Trans\*Code participants can come from any background, working together to create prototypes around the themes of transgender issues and access to technology.
