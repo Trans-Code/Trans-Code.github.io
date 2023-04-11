@@ -17,7 +17,7 @@ And please spread the word throughout your trans/NB communities far and wide!
 Trans*Code is where you can connect and share ideas with trans and non-binary folks as well as allies and co-conspirators. Where trans/NB people are not just included but centered. Where you can explore that pet idea for a tech project centered around your experiences. Where you can make new contacts and forge new friendships. Where you can breathe. 
 
 Trans\*Code events are similar to hackathons, but with some key differences:
-* Events are only one day long. If you can’t get free for an entire weekend, 
+* Events are only one day long. So you don't need to take off an entire weekend, 
 * Events are not competitive. At Trans\*Code events, we’re all pulling for each other. While we do have final presentations, they are made in the spirit of sharing, not in the spirit of competition.
 * Events encourage following your interests. Want to work on that project? Fine, do it. Want to spend the morning with this one, and the afternoon with that one? The choice is yours. Trans\*Code subscribes to the Un-Conference philosophy - whatever happens is exactly what should happen.
 
