@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Trans\*Code Home
+title: Trans*Code Home
 ---
 
-# Trans\*Code at [EuroPython](https://ep2022.europython.eu/trans_code)!
+# Trans\*Code at [EuroPython](https://ep2023.europython.eu/trans_code)!
 
 ## Trans\*Code returns to EuroPython
 At EuroPython 2022 in Dublin last summer Trans\*Code held its joyous return after the pandemic. This year, in collaboration with the trans/NB community in Czechia we will be back to continue building the tradition. The event at EuroPython in **Prague** will take place on **Tuesday, 18 July, 2023.**
