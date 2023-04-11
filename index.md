@@ -28,7 +28,7 @@ The day kicks off with the people who have projects briefly describing their ide
 
 
 ## Why Trans\*Code
-Co-organiser Naomi Ceder explains: “As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important.
+Founder and organiser Naomi Ceder explains: “As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important.
 
 “Trans\*Code participants can come from any background, working together to create prototypes around the themes of transgender issues and access to technology.
 
